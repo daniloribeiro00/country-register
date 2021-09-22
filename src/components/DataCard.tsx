@@ -39,12 +39,12 @@ const styles = StyleSheet.create({
 	textCode: {
 		color: '#212121',
 		fontSize: 14,
-		width: '30%',
+		width: '20%',
 	},
 	textName: {
 		color: '#212121',
 		fontSize: 20,
 		fontWeight: 'bold',
-		width: '70%',
+		width: '80%',
 	},
 });
